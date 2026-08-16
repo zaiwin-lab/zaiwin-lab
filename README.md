@@ -20,7 +20,7 @@ I help new ventures and established organisations discover overlooked business p
 
 I translate organisational challenges into practical AI-enabled products, working prototypes and clearer delivery systems.
 
-Together with the **KOBIS AI Prodigy Team**, I lead product strategy, stakeholder requirements, solution architecture and supervised AI-assisted delivery.
+Together with the **KOBIS AI Prodigy Team**, I lead product strategy, stakeholder requirements, solution architecture and supervised AI-assisted delivery. KOBIS (www.kobisberhad.com)
 
 > **Business-first. Human-directed. AI-accelerated. Impact-focused.**
 
