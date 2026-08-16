@@ -1,41 +1,48 @@
-# Ts Zaiwin Kassim
+# Ts. Zaiwin Kassim
 
-### AI-Enabled Digital Product Strategist · Programme Innovation Lead · Rapid MVP Builder
+### AI Product Strategist · Programme Innovation Lead · Rapid MVP Builder
 
-I convert operational challenges into working digital prototypes, practical platforms and clearer delivery systems.
+I translate organisational challenges into practical AI-enabled products, working prototypes and clearer delivery systems.
 
-Together with the **KOBIS AI Prodigy Team**, I lead solution architecture, stakeholder requirements, product direction and supervised AI-assisted delivery. The work focuses on real organisational needs: programme management, CRM, dashboards, training coordination, environmental initiatives, community platforms and digital heritage.
+Together with the **KOBIS AI Prodigy Team**, I lead product strategy, stakeholder requirements, solution architecture and supervised AI-assisted delivery.
 
 > **Business-first. Human-directed. AI-accelerated. Impact-focused.**
+
+## Flagship AI Products
+
+| Product | Strategic Role | What It Demonstrates | Evidence |
+|---|---|---|---|
+| **AZUGAI7** | AI Authority Engine | Explainable proposal-readiness intelligence through seven executive lenses: CIO, CFO, CTO, COO, CSO, CRO and CMO | [Repository](https://github.com/zaiwin-lab/Prop-Asessor) · [Live demo](https://prop7cq.netlify.app) |
+| **KAPT Digital Clinic** | Diagnosis & Transformation Engine | Organisational challenge intake, human-reviewed digital diagnosis and case-management workflow | [Repository](https://github.com/zaiwin-lab/MVP-AI-Tester) · [Live demo](https://mydigiclinic.netlify.app) |
+
+**AZUGAI7 evaluates strategic proposals. KAPT Digital Clinic diagnoses organisational challenges.**
+
+Together, they form a practical pathway from organisational diagnosis to stronger decisions, clearer interventions and responsible digital transformation.
 
 ## Professional Foundation
 
 - **Leadership:** Chairman, KOBIS Berhad
 - **Education:** Master of Business Administration; Bachelor of Engineering in Mechatronics
-- **Focus:** Digital product strategy, programme innovation, solution architecture and responsible AI-enabled delivery
+- **Focus:** AI product strategy, programme innovation, solution architecture and responsible AI-enabled delivery
 - **Location:** Kuching, Sarawak, Malaysia
 
 ## What I Do
 
-- **Digital Product Strategy** — translate operational problems into practical product roadmaps.
+- **AI Product Strategy** — translate operational problems into practical AI-enabled product roadmaps.
 - **Programme Innovation** — design workflows for participation, delivery, evidence, certification, claims and reporting.
 - **Solution Architecture** — connect user journeys, data, dashboards, automations and deployment.
 - **Rapid MVP Development** — move from concept to testable prototype quickly.
-- **AI-Assisted Delivery** — direct and supervise AI coding tools while retaining human judgment, review and accountability.
+- **Human-Directed AI Delivery** — supervise AI coding and analysis tools while retaining human judgment and accountability.
 - **Stakeholder Alignment** — shape technology around management, team and user requirements.
 
-## Selected Work
+## Selected Applied Platforms
 
 | Platform | Outcome & Capabilities | Evidence |
 |---|---|---|
-| **Executive 7-Lens Proposal Assessor** | Explainable 100-point proposal-readiness assessment through CIO, CFO, CTO, COO, CSO, CRO and CMO perspectives | [Repository](https://github.com/zaiwin-lab/Prop-Asessor) · [Live demo](https://prop7cq.netlify.app) |
-| **Syahlan Digital Web Builder** | Multilingual website-service journey designed to help entrepreneurs and organisations establish a professional digital presence | [Repository](https://github.com/zaiwin-lab/KDP-Shazlan) · [Live platform](https://syahlansdc.com) |
-| **KAPT Digital Clinic** | Organisational challenge intake, human-reviewed digital diagnosis and internal case-management workflow | [Repository](https://github.com/zaiwin-lab/MVP-AI-Tester) · [Live demo](https://kapt-digital-clinic.netlify.app) |
-| **Spinify Engagement Platform** | QR-led customer capture, rewards, repeat-visit journeys, campaign concepts and owner insights | [Repository](https://github.com/zaiwin-lab/KBT-Spinify) · [Live demo](https://kbt-spinify.netlify.app) |
 | **VDP Training Journey Guide** | QR attendance, participant profiles, readiness assessment, learning resources, action plans and supervisor reporting | [Repository](https://github.com/zaiwin-lab/MVP-EVOS-Mara) · [Live platform](https://kbtmaravdp.uk) |
+| **Spinify Engagement Platform** | QR-led customer capture, rewards, repeat-visit journeys, campaign concepts and owner insights | [Repository](https://github.com/zaiwin-lab/KBT-Spinify) · [Live demo](https://kbt-spinify.netlify.app) |
 | **Property Concierge Platform** | Curated property discovery, affordability and ROI tools, appointment journeys and AI-assisted guidance | [Repository](https://github.com/zaiwin-lab/MVP-Property) · [Live demo](https://mvp-property.netlify.app) |
-
-_All links were verified against current Netlify deployments on 2 August 2026._
+| **Syahlan Digital Web Builder** | Multilingual service journey helping entrepreneurs and organisations establish a professional digital presence | [Repository](https://github.com/zaiwin-lab/KDP-Shazlan) · [Live platform](https://syahlansdc.com) |
 
 ## Technology & Delivery Stack
 
@@ -60,13 +67,7 @@ Repositories may include concept demonstrations, prototypes and pilot-ready plat
 
 ## Collaboration
 
-I am interested in practical collaborations involving:
+I welcome practical collaborations involving AI-enabled organisational workflows, programme-management systems, entrepreneurship, workforce development, community impact and digital transformation for Sarawak organisations.
 
-- entrepreneurship and workforce programmes;
-- programme-management systems;
-- AI-enabled organisational workflows;
-- community and environmental impact;
-- digital transformation for Sarawak organisations.
-
-**KOBIS AI Prodigy Team**  
-Smart digital solutions. Sustainable impact.
+**Built by Ts. Zaiwin Kassim with the KOBIS AI Prodigy Team**  
+*Smart digital solutions. Sustainable impact.*
