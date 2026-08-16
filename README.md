@@ -1,4 +1,4 @@
-# Ts. Zaiwin Kassim
+# Ts. Zaiwin Kassim, MBA
 
 ### AI Product Strategist · Programme Innovation Lead · Digital Solution Builder
 
