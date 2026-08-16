@@ -2,6 +2,22 @@
 
 ### AI Product Strategist · Programme Innovation Lead · Digital Solution Builder
 
+## MVP³ — Unlock Business Potential
+
+> **Every business has an untapped MVP.**
+
+| MVP³ Dimension | Purpose |
+|---|---|
+| **Minimum Viable Product** | Build what can be tested. |
+| **Most Valuable Potential** | Unlock what is hidden. |
+| **Market Value Proposition** | Create what the market wants. |
+
+I help new ventures and established organisations discover overlooked business potential, shape practical AI-enabled solutions and turn them into credible market opportunities.
+
+**Build it. Unlock it. Bring it to market.**
+
+[**Start an MVP³ Discovery Conversation →**](mailto:zaiwin@gmail.com?subject=MVP%C2%B3%20Discovery%20Conversation)
+
 I translate organisational challenges into practical AI-enabled products, working prototypes and clearer delivery systems.
 
 Together with the **KOBIS AI Prodigy Team**, I lead product strategy, stakeholder requirements, solution architecture and supervised AI-assisted delivery.
