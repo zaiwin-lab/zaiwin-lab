@@ -1,6 +1,6 @@
 # Ts. Zaiwin Kassim
 
-### AI Product Strategist · Programme Innovation Lead · Rapid MVP Builder
+### AI Product Strategist · Programme Innovation Lead · Digital Solution Builder
 
 I translate organisational challenges into practical AI-enabled products, working prototypes and clearer delivery systems.
 
@@ -53,9 +53,9 @@ Together, they create a practical pathway from diagnosis to stronger decisions, 
 
 | Platform | Outcome & Capabilities | Evidence |
 |---|---|---|
-| **VDP Training Journey Guide** | QR attendance, participant profiles, readiness assessment, learning resources, action plans and supervisor reporting | [Repository](https://github.com/zaiwin-lab/MVP-EVOS-Mara) · [Live platform](https://kbtmaravdp.uk) |
+| **Attendify EventOS™** · Pilot Ready | Unified QR attendance, participant profiles, readiness assessment, learning resources, action plans and supervisor reporting | [Repository](https://github.com/zaiwin-lab/MVP-EVOS-Mara) · [Live platform](https://kbtmaravdp.uk) |
 | **Spinify Engagement Platform** | QR-led customer capture, rewards, repeat-visit journeys, campaign concepts and owner insights | [Repository](https://github.com/zaiwin-lab/KBT-Spinify) · [Live demo](https://kbt-spinify.netlify.app) |
-| **Property Concierge Platform** | Curated property discovery, affordability and ROI tools, appointment journeys and AI-assisted guidance | [Repository](https://github.com/zaiwin-lab/MVP-Property) · [Live demo](https://mvp-property.netlify.app) |
+| **KOBIS Property Concierge** · Working Prototype | Curated property discovery, affordability and ROI exploration, appointment journeys and AI-assisted guidance | [Repository](https://github.com/zaiwin-lab/MVP-Property) · [Live demo](https://mvp-property.netlify.app) |
 | **Syahlan Digital Web Builder** | Multilingual service journey helping entrepreneurs and organisations establish a professional digital presence | [Repository](https://github.com/zaiwin-lab/KDP-Shazlan) · [Live platform](https://syahlansdc.com) |
 
 ## Technology & Delivery Stack
