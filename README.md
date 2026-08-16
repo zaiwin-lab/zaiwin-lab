@@ -12,12 +12,26 @@ Together with the **KOBIS AI Prodigy Team**, I lead product strategy, stakeholde
 
 | Product | Strategic Role | What It Demonstrates | Evidence |
 |---|---|---|---|
-| **AZUGAI7** | AI Authority Engine | Explainable proposal-readiness intelligence through seven executive lenses: CIO, CFO, CTO, COO, CSO, CRO and CMO | [Repository](https://github.com/zaiwin-lab/Prop-Asessor) · [Live demo](https://prop7cq.netlify.app) |
+| **C-SUITE7 AI** | Executive Proposal Intelligence | Evaluates proposal readiness through seven executive lenses—CIO, CFO, CTO, COO, CSO, CRO and CMO—using transparent criteria informed by established global corporate-management and consulting practices | [Repository](https://github.com/zaiwin-lab/Prop-Asessor) · [Live demo](https://prop7cq.netlify.app) |
 | **KAPT Digital Clinic** | Diagnosis & Transformation Engine | Organisational challenge intake, human-reviewed digital diagnosis and case-management workflow | [Repository](https://github.com/zaiwin-lab/MVP-AI-Tester) · [Live demo](https://mydigiclinic.netlify.app) |
 
-**AZUGAI7 evaluates strategic proposals. KAPT Digital Clinic diagnoses organisational challenges.**
+### Think Through Seven Executive Brains
 
-Together, they form a practical pathway from organisational diagnosis to stronger decisions, clearer interventions and responsible digital transformation.
+**C-SUITE7 AI** examines a proposal as seven senior decision-makers would:
+
+- **CIO** — innovation, information and digital value
+- **CFO** — financial viability, return and sustainability
+- **CTO** — technology feasibility, architecture and scalability
+- **COO** — operational readiness and execution
+- **CSO** — strategic alignment and competitive advantage
+- **CRO** — risk, governance and resilience
+- **CMO** — market relevance, positioning and adoption
+
+Its assessment logic is informed by publicly established management principles and practices used across leading global corporations, S&P 500 environments and major consulting disciplines. It does **not** claim endorsement by, affiliation with or direct assessment from those companies or consultancies.
+
+**C-SUITE7 AI strengthens proposals. KAPT Digital Clinic diagnoses organisational challenges.**
+
+Together, they create a practical pathway from diagnosis to stronger decisions, clearer interventions and responsible digital transformation.
 
 ## Professional Foundation
 
