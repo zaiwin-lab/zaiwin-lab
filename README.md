@@ -73,7 +73,7 @@ Together, they create a practical pathway from diagnosis to stronger decisions, 
 | **KOBIS Connect** · Functional Prototype | Shared-office CRM for contacts, companies, follow-ups, activity and spreadsheet onboarding with an optional Supabase mode | [Repository](https://github.com/zaiwin-lab/MVP-CRM) · [Live demo](https://kobis-connect.netlify.app) |
 | **Attendify EventOS™** · Pilot Ready | Unified QR attendance, participant profiles, readiness assessment, learning resources, action plans and supervisor reporting | [Repository](https://github.com/zaiwin-lab/MVP-EVOS-Mara) · [Live platform](https://kbtmaravdp.uk) |
 | **SPM2Diploma Platform** · Working Prototype | Multilingual recruitment, eligibility and participant-support journey with programme operations and role-aware data architecture | [Repository](https://github.com/zaiwin-lab/MVP-ZK30) · [Live platform](https://spm2diplomafasttrack.netlify.app) |
-| **Spinify Engagement Platform** | QR-led customer capture, rewards, repeat-visit journeys, campaign concepts and owner insights | [Repository](https://github.com/zaiwin-lab/KBT-Spinify) · [Live demo](https://kbt-spinify.netlify.app) |
+| **KBT RewardOS** · Interactive Concept | Browser-only QR reward journey, simulated spin and draw paths, multilingual product communication and responsible-pilot requirements | [Repository](https://github.com/zaiwin-lab/KBT-Spinify) |
 | **KOBIS Property Concierge** · Working Prototype | Curated property discovery, affordability and ROI exploration, appointment journeys and AI-assisted guidance | [Repository](https://github.com/zaiwin-lab/MVP-Property) · [Live demo](https://mvp-property.netlify.app) |
 
 ## Technology & Delivery Stack
