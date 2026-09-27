@@ -24,12 +24,12 @@ Together with the **KOBIS AI Prodigy Team**, I lead product strategy, stakeholde
 
 > **Business-first. Human-directed. AI-accelerated. Impact-focused.**
 
-## Flagship AI Products
+## Flagship Decision-Support Products
 
 | Product | Strategic Role | What It Demonstrates | Evidence |
 |---|---|---|---|
-| **C-SUITE7 AI** | Executive Proposal Intelligence | Evaluates proposal readiness through seven executive lenses—CIO, CFO, CTO, COO, CSO, CRO and CMO—using transparent criteria informed by established global corporate-management and consulting practices | [Repository](https://github.com/zaiwin-lab/Prop-Asessor) · [Live demo](https://prop7cq.netlify.app) |
-| **KAPT Digital Clinic** | Diagnosis & Transformation Engine | Organisational challenge intake, human-reviewed digital diagnosis and case-management workflow | [Repository](https://github.com/zaiwin-lab/MVP-AI-Tester) · [Live demo](https://mydigiclinic.netlify.app) |
+| **C-SUITE7 AI** | Explainable Proposal Readiness | Applies a deterministic, rule-based seven-lens scorer—CIO, CFO, CTO, COO, CSO, CRO and CMO—to help teams structure proposal review; it is not generative proposal writing or professional approval | [Repository](https://github.com/zaiwin-lab/Prop-Asessor) · [Live demo](https://prop7cq.netlify.app) |
+| **KAPT Digital Clinic** | Static Diagnostic Journey | Demonstrates challenge intake, consent and a human-review concept; the current public build does not transmit submissions or deploy the repository’s parked backend and AI workflow | [Repository](https://github.com/zaiwin-lab/MVP-AI-Tester) · [Live demo](https://mydigiclinic.netlify.app) |
 
 ### Think Through Seven Executive Brains
 
@@ -43,11 +43,11 @@ Together with the **KOBIS AI Prodigy Team**, I lead product strategy, stakeholde
 - **CRO** — risk, governance and resilience
 - **CMO** — market relevance, positioning and adoption
 
-Its assessment logic is informed by publicly established management principles and practices used across leading global corporations, S&P 500 environments and major consulting disciplines. It does **not** claim endorsement by, affiliation with or direct assessment from those companies or consultancies.
+Its assessment logic is deterministic and rule-based. It is informed by publicly established management principles and practices, but it does **not** claim endorsement by, affiliation with or direct assessment from any company or consultancy. Outputs are preparation aids, not professional approval.
 
-**C-SUITE7 AI strengthens proposals. KAPT Digital Clinic diagnoses organisational challenges.**
+**C-SUITE7 AI strengthens proposal preparation. KAPT Digital Clinic demonstrates the start of a human-led diagnostic journey.**
 
-Together, they create a practical pathway from diagnosis to stronger decisions, clearer interventions and responsible digital transformation.
+Together, the product concepts show a pathway from diagnosis to stronger decisions and clearer interventions once secure backends, evidence controls and human review are implemented.
 
 ## Professional Foundation
 
