@@ -1,4 +1,4 @@
-# Ts. Zaiwin Kassim, MBA
+# Zaiwin Kassim, MBA
 
 ### AI Product Strategist · Programme Innovation Lead · Digital Solution Builder
 
@@ -101,5 +101,5 @@ Repositories may include concept demonstrations, prototypes and pilot-ready plat
 
 I welcome practical collaborations involving AI-enabled organisational workflows, programme-management systems, entrepreneurship, workforce development, community impact and digital transformation for Sarawak organisations.
 
-**Built by Ts. Zaiwin Kassim with the KOBIS AI Prodigy Team**  
-*Smart digital solutions. Sustainable impact.*
+**Built & unified by KOBIS Berhad.**  
+*Smart Digital Solutions. Sustainable Impact.*
